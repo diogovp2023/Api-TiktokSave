@@ -1,4 +1,6 @@
 {
   "apiKey": "12d51df2ecmsh2f5f834a94861a7p12ee58jsnbf183533e112",
-  "apiHost": "tiktok-video-no-watermark2.p.rapidapi.com"
+  "apiHost": "tiktok-downloader-download-tiktok-videos-without-watermark.p.rapidapi.com",
+  "baseUrl": "https://tiktok-video-no-watermark10.p.rapidapi.com",
+  "getVideoEndpoint": "/index/Tiktok/getVideoInfo"
 }
