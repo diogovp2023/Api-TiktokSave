@@ -1,6 +1,10 @@
 {
-  "apiKey": "aef9932d1dmsh4619ee0fdfa9bc4p1efac7jsn84e0489efc42",
-  "apiHost": "tiktok-video-no-watermark10.p.rapidapi.com",
-  "baseUrl": "https://tiktok-video-no-watermark10.p.rapidapi.com",
-  "getVideoEndpoint": "/index/Tiktok/getVideoInfo"
+  "apiKey": "12d51df2ecmsh2f5f834a94861a7p12ee58jsnbf183533e112",
+  "apiHost": "tiktok-full-info-without-watermark.p.rapidapi.com",
+  "baseUrl": "https://tiktok-full-info-without-watermark.p.rapidapi.com",
+  "getVideoEndpoint": "/vid/index",
+  "queryParameters": {
+    "url": "url",
+    "hd": null
+  }
 }
