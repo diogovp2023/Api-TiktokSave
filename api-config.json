@@ -2,5 +2,5 @@
   "apiKey": "12d51df2ecmsh2f5f834a94861a7p12ee58jsnbf183533e112",
   "apiHost": "tiktok-download-video1.p.rapidapi.com",
   "baseUrl": "https://tiktok-download-video1.p.rapidapi.com",
-  "getVideoEndpoint": "/vid/index"
+  "getVideoEndpoint": "/getVideo"
 }
